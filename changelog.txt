@@ -17,3 +17,8 @@ Version: 2.0.0
   
 Version: 1.0.0
 - Initial Release
+
+--------------------------
+20210810
+  - Added twitter button on headers and footers
+  - Updated resume file and link
