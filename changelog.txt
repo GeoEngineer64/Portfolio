@@ -22,3 +22,8 @@ Version: 1.0.0
 20210810
   - Added twitter button on headers and footers
   - Updated resume file and link
+
+20210906
+  - Fixed page titles
+  - Renamed template files
+  - Updated resume file and link
