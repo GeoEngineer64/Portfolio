@@ -27,3 +27,7 @@ Version: 1.0.0
   - Fixed page titles
   - Renamed template files
   - Updated resume file and link
+
+20220113
+  - Updated favicon name/reference throughout
+  - Updated og:image reference to full size LOLA logo (/logo-lola.png)
