@@ -31,3 +31,8 @@ Version: 1.0.0
 20220113
   - Updated favicon name/reference throughout
   - Updated og:image reference to full size LOLA logo (/logo-lola.png)
+
+20220613
+  - added UESI Survey Competition finals product
+  - edited "about"
+  - updated resume (20220609) in "about"
