@@ -36,3 +36,10 @@ Version: 1.0.0
   - added UESI Survey Competition finals product
   - edited "about"
   - updated resume (20220609) in "about"
+
+20240422
+  - updated work content tags (index & each page)
+  - updated navbars
+  - added RAS and MOT work pages
+  - added "Tools I used" section to works pages
+  - added "My Portfolio" github work page
