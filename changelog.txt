@@ -43,3 +43,11 @@ Version: 1.0.0
   - added RAS and MOT work pages
   - added "Tools I used" section to works pages
   - added "My Portfolio" github work page
+
+20241230
+  - created separate language section in "about" page.
+  - added school engineering labs/projects...
+  -- env sys lab 1 ...X
+  -- env sys hw 2 ...X
+  -- trans mob lab ...X
+  -- comp DSS ...X
