@@ -51,3 +51,14 @@ Version: 1.0.0
   -- env sys hw 2 ...X
   -- trans mob lab ...X
   -- comp DSS ...X
+
+20250123
+  - added diploma to "about"
+  - update page/index titles
+  ... following format: [Location/Client] - [category] /line [tag]|[tag]
+  ... CATEGORIES: Hydraulic Analysis, Construction MOT, Reference Map, Topographic Mapping, Infographic, Webapp, 
+  ... TAGS: engineering, surveying, gis, code, design, analysis, reference, cartographic
+  - added school engineering labs/projects...
+  -- RAS-PWC ...X
+  -- GGS 308 ...X
+  - various edits
